@@ -10,3 +10,5 @@
 -Pronounces: He/Him
 
 -Hobbies: Games and Anime
+
+-Age: 20yo
