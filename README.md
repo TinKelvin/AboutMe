@@ -1,5 +1,6 @@
 <h1>Hi I'm Kelvin! <br/><a ref="https://github.com/TinSeungYuenKelvinAdrien">Enthusiast Programmer</a></h1>
-<b2>About Me:</b2>
+<h2>About Me:</h2>
+<body>
 I'm a passionate developer with a strong interest in Computer Science, problem-solving, and building clean, efficient code. I enjoy learning new technologies, improving my skills, and working on projects that challenge me to think creatively.
 
 Skills & Technologies:
@@ -22,8 +23,5 @@ How to Reach Me:
 -Email: kelvintin47@gmail.com
 -LinkedIn: https://www.linkedin.com/in/kelvintsy
 
-Email: [your email]
-
-LinkedIn: [your LinkedIn link]
-
-Thanks for visiting my GitHub! Feel free to check out my repositories — feedback and collaboration are always welcome 🚀
+Thanks for visiting my GitHub! Feel free to check out my repositories — feedback and collaboration are always welcome!
+</body>
